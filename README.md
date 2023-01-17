@@ -9,9 +9,6 @@ Browser used for testing : Google Chrome
 
 _________________________________________________________________________________________________________________________________________________________________
 
-The zip file contains 4 files. 
-Project,OSProjectReport.pdf, README.txt, OSProjectPPT.pptx
-
 
 To run the we app, first navigate to the project directory.
 Then open the "index.html" on the browser of choice to open the web app.
